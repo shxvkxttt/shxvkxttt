@@ -50,11 +50,24 @@
 
 ---
 
-### 🚀 Projets & Chantiers Actuels
+### 💻 Projets Phares & Démos
 
-- 📱 **Posia & Dashboards métier** — Applications web Next.js / Prisma pour la gestion de devis, suivi clients et espaces praticiens.
-- 🎮 **Écosystème FiveM Avancé** — Framework custom Standalone, tablettes NUI immersives (React/Next), UI d'inventaire, systèmes de crew, territoires & darknet.
-- ⚙️ **Scripts & Automatisations** — Micro-outils et scripts de traitement média / dérushage en Python (OpenCV/FFmpeg).
+| Projet | Description | Stack | Aperçu |
+| :--- | :--- | :---: | :---: |
+| **Tablet NUI iPad** | Interface interactive en jeu style iPad pour la gestion de services, crews et darknet. | `React` `TS` `Lua` | <img src="https://via.placeholder.com/280x150/1e1e2e/ffffff?text=Demo+iPad+NUI" width="280" alt="Tablet NUI Demo" /> |
+| **Posia Web App** | SaaS de création de devis, gestion client et suivi d'activité pour indépendants et professionnels. | `Next.js` `Prisma` `Tailwind` | <img src="https://via.placeholder.com/280x150/1e1e2e/ffffff?text=Demo+Posia" width="280" alt="Posia Demo" /> |
+| **Custom NUI Inventory** | Inventaire FiveM fluide et responsive sans framework externe. | `HTML/CSS` `JS` `Lua` | <img src="https://via.placeholder.com/280x150/1e1e2e/ffffff?text=Demo+Inventory" width="280" alt="Inventory Demo" /> |
+| **Medical Record Portal** | Dashboard de gestion patientèle avec téléversement et comparaison vidéo/images. | `Next.js` `TypeScript` `MySQL` | <img src="https://via.placeholder.com/280x150/1e1e2e/ffffff?text=Demo+Medical+Portal" width="280" alt="Medical Portal Demo" /> |
+
+> *Pour remplacer les images temporaires, héberge tes GIFs ou screenshots directement sur GitHub (dans un dossier `.github/assets` de ton repo profile par exemple) ou sur Imgur, puis remplace les URLs dans les balises `src`.*
+
+---
+
+### 🚀 En ce moment je bosse sur :
+
+- 📱 L'optimisation des flux vidéo et documents sur mes applications **Next.js**.
+- 🎮 Un framework **FiveM Standalone** modularisé et sécurisé.
+- ⚙️ Des scripts Python d'automatisation et de traitement média avec **OpenCV / FFmpeg**.
 
 ---
 
