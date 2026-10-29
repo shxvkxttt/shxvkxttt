@@ -59,8 +59,6 @@
 | **Custom NUI Inventory** | Inventaire FiveM fluide et responsive sans framework externe. | `HTML/CSS` `JS` `Lua` | <img src="https://via.placeholder.com/280x150/1e1e2e/ffffff?text=Demo+Inventory" width="280" alt="Inventory Demo" /> |
 | **Medical Record Portal** | Dashboard de gestion patientèle avec téléversement et comparaison vidéo/images. | `Next.js` `TypeScript` `MySQL` | <img src="https://via.placeholder.com/280x150/1e1e2e/ffffff?text=Demo+Medical+Portal" width="280" alt="Medical Portal Demo" /> |
 
-> *Pour remplacer les images temporaires, héberge tes GIFs ou screenshots directement sur GitHub (dans un dossier `.github/assets` de ton repo profile par exemple) ou sur Imgur, puis remplace les URLs dans les balises `src`.*
-
 ---
 
 ### 🚀 En ce moment je bosse sur :
